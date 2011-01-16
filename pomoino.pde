@@ -1,5 +1,5 @@
 /*
-  File: pomodoro.pde
+  File: pomoino.pde
   Author: Ronald Andreu Kaiser
   Creation date: 2010-01-16
   Description: pomodoro technique implementation for arduino.
